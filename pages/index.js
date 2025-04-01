@@ -1,5 +1,5 @@
 function Home(){
-    retur<h1>ashuasuhhasuhuashusa<h1>
+    return<h1>Primeiro Site de Kenzo</h1>
 }   
 
-export default Home
+export default Home;
