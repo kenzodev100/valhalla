@@ -1,8 +1,5 @@
-import Script from "next/script";
-
 function Home(){
-    return 
-    <h1>meu primeiro site</h1>  
+    retur<h1>ashuasuhhasuhuashusa<h1>
 }   
 
-export default Home;
+export default Home
